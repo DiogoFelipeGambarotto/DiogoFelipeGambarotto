@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**DiogoFelipeGambarotto/DiogoFelipeGambarotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a> 
+  </div>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim:
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas** (ADS) no Claretiano.
+- 🎓 Concluí o curso técnico em **Desenvolvimento de Sistemas** na ETEC Armando Bayeux da Silva.
+- 💻 Experiência com **HTML, CSS, JavaScript, React, Tailwind e MongoDB**.
+- 🚀 Buscando **estágio em desenvolvimento web**.
+- 🌎 Apaixonado por tecnologia e aprendizado contínuo!
+
+---
+
+<div align="center">
+  <h3>📊 Estatísticas Avançadas</h3>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=NathaLopesZerbo&theme=darkhub&no-frame=false&margin-w=15" alt="Troféus no GitHub">
+  </div>
+</div>
+
+---
